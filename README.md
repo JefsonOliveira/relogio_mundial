@@ -40,6 +40,6 @@ Para rodar o projeto localmente, siga os passos abaixo:
 Contato
 Para dúvidas ou mais informações, entre em contato:
 
-Nome: Jefson K Oliveira
-Email: kaironoliveira16@gmail.com
-LinkedIn: [Meu Perfil](https://www.linkedin.com/in/jefson-oliveira-a92a62206/)
+- Nome: Jefson K Oliveira
+- Email: kaironoliveira16@gmail.com
+- LinkedIn: [Meu Perfil](https://www.linkedin.com/in/jefson-oliveira-a92a62206/)
