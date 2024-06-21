@@ -7,7 +7,7 @@
 - 🌍 **Fusos Horários Globais**: Veja a hora atual em vários fusos horários diferentes.
 - 🕒 **Atualização em Tempo Real**: A hora é atualizada automaticamente em tempo real.
 - 📅 **Formato de Data e Hora**: Escolha entre diferentes formatos de exibição de data e hora.
-- 🔍 **Pesquisa de Cidades**: Encontre e adicione cidades para visualizar a hora local.
+- 🔍 **Pesquisa de Cidades**: Encontre e adicione fusorarios para visualizar a hora local.
 - 🎨 **Interface Amigável**: Interface de usuário limpa e fácil de usar, desenvolvida com ReactJS.
 
 ## Tecnologias Utilizadas
